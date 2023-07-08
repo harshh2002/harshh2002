@@ -21,5 +21,5 @@ Here are some quick things about me:
 
 <img alt="usr-details" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshh2002&theme=dracula">
 
-<img alt="time-details" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshh2002&theme=dracula">
+<img alt="time-details" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshh2002&theme=dracula&utcOffset=5.30">
 </p>
